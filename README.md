@@ -1,1 +1,1 @@
-# Desarrollo-de-curso-y-Certificaci-n
+Desarrollo de curso y certificación: Kotlin Básico e Intermedio
